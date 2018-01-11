@@ -24,7 +24,7 @@ func main() {
 
 // package main
 
-// // #cgo CFLAGS: -I /home/pengmeng/linux_php_installer/libs/php-7.0.8/ -I /home/pengmeng/linux_php_installer/libs/php-7.0.8/main/ -I /home/pengmeng/linux_php_installer/libs/php-7.0.8/Zend/ -I /home/pengmeng/linux_php_installer/libs/php-7.0.8/TSRM/
+// // #cgo CFLAGS: -I /home/linux_php_installer/libs/php-7.0.8/ -I /home/linux_php_installer/libs/php-7.0.8/main/ -I /home/linux_php_installer/libs/php-7.0.8/Zend/ -I /home/linux_php_installer/libs/php-7.0.8/TSRM/
 // // #cgo LDFLAGS: -lphp7
 // // #include "sapi/embed/php_embed.h"
 // /*
